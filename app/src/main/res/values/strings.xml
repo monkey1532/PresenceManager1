@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PresenceManager</string>
+    <string name="feature_in_development">Fonctionnalité en cours de développement</string>
+    <string name="feature_groups">Groupes</string>
+    <string name="feature_call">Faire l\'appel</string>
+    <string name="feature_history">Historique</string>
+    <string name="feature_statistics">Statistiques</string>
+</resources>
