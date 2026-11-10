@@ -28,3 +28,4 @@ Remplacer `NOM_PRENOM` et `VOTRE_IDENTIFIANT` dans `MainActivity.kt` et `Dashboa
 # PresenceManager1
 # PresenceManager1
 # PresenceManager1
+# PresenceManager1
